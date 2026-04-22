@@ -1,4 +1,4 @@
-# commmunity
+# community
 
 This is the community repository for to11.ai.
 
