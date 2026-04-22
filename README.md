@@ -1,2 +1,10 @@
-# commmunity
-Help shape to11. Submit ideas, report issues, and follow our roadmap as we build the all-in-one platform for AI observability, evals, and reliability.
+# community
+
+This is the community repository for to11.ai.
+
+Use this repo to:
+- Report bugs
+- Request features
+- Ask questions
+
+Please open an issue using the appropriate template so we can triage quickly.
