@@ -1,0 +1,11 @@
+name: Question
+description: Ask a question about using to11
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What do you need help with?
+    validations:
+      required: true
