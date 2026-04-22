@@ -9,7 +9,7 @@ Use this repo to:
 
 Please open an issue using the appropriate template so we can triage quickly.
 
-## Security issues
+## Security Issues
 
 If you believe you found a vulnerability or security issue, **do not open a public issue**.
 We have enabled private vulnerability reporting for this repository — please use that process here:
