@@ -1,6 +1,6 @@
-# community
+# Community
 
-This is the community repository for to11.ai.
+This is the Community repository for to11.ai.
 
 Use this repo to:
 - Report bugs
